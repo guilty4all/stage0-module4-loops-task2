@@ -9,7 +9,7 @@ public class PowerOfTwo {
         }else{
             while (start <= power){
                 res = Math.pow(2,start);
-                System.out.printf("%.0f \n",res);
+                System.out.printf("%.0f\n",res);
                 start++;
             }
         }
