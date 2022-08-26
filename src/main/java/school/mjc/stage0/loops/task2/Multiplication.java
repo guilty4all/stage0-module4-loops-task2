@@ -9,7 +9,7 @@ public class Multiplication {
                 counter++;
             }
         } else if (multiplyByAndToInclusive == 0) {
-            System.out.println("");
+            System.out.print("");
         }else{
             while (counter<= multiplyByAndToInclusive){
                 System.out.println(counter*multiplyByAndToInclusive);
