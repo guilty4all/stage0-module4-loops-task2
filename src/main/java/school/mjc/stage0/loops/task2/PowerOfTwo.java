@@ -8,7 +8,7 @@ public class PowerOfTwo {
             System.out.println("too much power");
         }else{
             while (start <= power){
-                res = Math.pow(start,power);
+                res = Math.pow(2,start);
                 System.out.printf("%.0f \n",res);
                 start++;
             }
