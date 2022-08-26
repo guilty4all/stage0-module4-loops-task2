@@ -3,7 +3,8 @@ package school.mjc.stage0.loops.task2;
 import school.mjc.stage0.base.BaseIOTest;
 import org.junit.jupiter.api.Test;
 
-class MultiplicationTest extends BaseIOTest {
+class
+MultiplicationTest extends BaseIOTest {
 
     @Test
     void printMultipliedPositive() {
